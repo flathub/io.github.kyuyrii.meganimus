@@ -23,8 +23,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Kyuyrii/Meganimus.git
-        tag: '5.7'
-        commit: 7b5c019029be68a54f59e50be33d25408d9a6d65
+        tag: '5.8'
+        commit: 05365b82a7ffd4e2fab522abde2638615b0c3f3f
     build-commands:
       - make install PREFIX=/app
     modules:
